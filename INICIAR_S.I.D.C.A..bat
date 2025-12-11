@@ -18,11 +18,11 @@ REM AdministratorManifest: No
 REM  QBFC Project Options End
 @ECHO ON
 @echo off
-TITLE S.I.D.C.A. - Sistema Inteligente de Detección de Caries
+TITLE S.D.C.P. - SISTEMA DE DIAGNOSTICO DE CARIES PEDIATRICAS
 COLOR 0A
 
 echo ========================================================
-echo      INICIANDO SISTEMA S.I.D.C.A. (Dental Hada)
+echo      INICIANDO SISTEMA S.D.C.P. (Dental Hada)
 echo ========================================================
 echo.
 echo [1/3] Ubicando archivos del sistema...
@@ -48,3 +48,4 @@ if %errorlevel% neq 0 (
 )
 
 pause
+
