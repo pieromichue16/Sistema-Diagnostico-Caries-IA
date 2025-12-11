@@ -1,4 +1,4 @@
-# S.I.D.C.A. - Sistema Inteligente de Detección de Caries 🦷
+# S.D.C.P. - SISTEMA DE DIAGNOSTICO DE CARIES PEDIATRICAS 🦷
 **Proyecto de Tesis - Clínica Dental Hada**
 
 Este sistema utiliza Inteligencia Artificial (U-Net + ResNet50) para detectar caries en radiografías.
@@ -10,4 +10,4 @@ Debido al peso del archivo, el modelo de IA debe descargarse por separado:
 ## 🚀 Instalación
 1. Descarga este código.
 2. Descarga el modelo del enlace de arriba y ponlo en la carpeta.
-3. Ejecuta `SIDCA.exe`.
+3. Ejecuta `SDCP.exe`.
